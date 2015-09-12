@@ -1,6 +1,6 @@
 # chatter
 
-FIXME
+this is my first app named chatter
 
 ## Prerequisites
 
