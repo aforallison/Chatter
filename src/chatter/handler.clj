@@ -4,7 +4,7 @@
             [ring.middleware.defaults :refer [wrap-defaults site-defaults]]
             [hiccup.page :as page]))
 
-(defn generage-message-view
+(defn generate-message-view
 	"This helper function generates the HTML for displaying messages"
 	[]
 	 (page/html5
