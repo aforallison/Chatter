@@ -1,6 +1,6 @@
 # chatter
 
-this is my first app named chatter
+This is my first app
 
 ## Prerequisites
 
